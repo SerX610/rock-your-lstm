@@ -1,0 +1,16 @@
+% River Deep, Mountain High (1966)
+
+A: IV | | | | I | | | | IV | | | | I | |
+B: V | | I | |
+C: bVII | | | | I | | | |
+D: I | |
+
+Ln: I | | | | |
+Vr: $A
+Pc: $B*3
+Ch: $C*2
+Br: $D*8 IV | | | | $D*2
+Bl: $D*5
+
+Zz: $Ln $Vr $Pc $Ch
+S: [G] $Zz*2 $Br $Bl $Ch $Ln

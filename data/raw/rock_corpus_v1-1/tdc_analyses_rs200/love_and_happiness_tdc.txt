@@ -1,0 +1,12 @@
+% Love and Happiness
+
+A: bVId7 V7 | i |
+B: i |
+
+Rf: $A*2
+Vr1: [B] I | V42/IV | [G#] i bVII | i bVII | i bVII | [B] bIII ii I . | bIII ii I . |
+Vr2: $Vr1 [B] bIII ii I . |
+In: i | | iv7 | i | | |
+So: $B*8
+
+S: [G#] $In $Rf $Vr1 $Vr2 $Rf $So $Rf $Vr2 $Rf $So*4 $B*6 $Rf $So*2 $B*5 

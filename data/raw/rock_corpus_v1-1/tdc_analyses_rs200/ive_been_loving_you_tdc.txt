@@ -1,0 +1,8 @@
+% I've Been Loving You
+
+Ch: I | | V | | I | | V | |
+Vr: I | | V7/vi | | IV | | bVI | |
+Ch2: I | | V | | I | | bVI | |
+Ou: I | | bVI | |
+
+S: [A] [6/8] $Ch $Vr $Ch*2 $Vr $Ch2 [Bb] $Ch2 $Ou*3

@@ -1,0 +1,10 @@
+
+% What'd I Say
+
+BP: I | | | | IV | | I | | V | IV | I | V |     	% All chords are usually dom 7ths. 
+							% On first Vinst, m. 12 is I
+BP2: I | | | | IV | | I | | V | IV | I | I |     	
+Vr: $BP
+Vinst: $BP
+Vrfinal: $BP2
+S: [E] $Vinst $Vinst $Vinst $Vr $Vr $Vr $Vinst $Vr $Vr $Vr $Vr

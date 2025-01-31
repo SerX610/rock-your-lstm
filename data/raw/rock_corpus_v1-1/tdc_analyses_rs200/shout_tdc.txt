@@ -1,0 +1,13 @@
+% Shout
+
+A: I | vi |
+B: I | | vi | |
+
+Ch: $A*4 % 2:58
+Vr1: $A*4
+Vr2: $B*4
+Br1: I |*16
+Vr3: $A*3 I | | 
+Br2: I | IV | % fermatas
+
+S: [F] $Ch $Vr1*2 $Vr2 $Br1 $Ch $Vr3 $Br2 $Ch $A*25

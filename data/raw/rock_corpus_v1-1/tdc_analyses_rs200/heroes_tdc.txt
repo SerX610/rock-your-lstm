@@ -1,0 +1,7 @@
+% Heroes (1977)
+
+A: I | | IV | |
+
+Vr: $A*4 bVII | | I | | v | ii | I | | bVII | IV | I | | 
+
+S: [D] $Vr*6

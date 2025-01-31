@@ -1,0 +1,7 @@
+% Tutti Frutti (1955)
+
+Ch: I | | | | IV | | I | | V | IV | I | |
+Vr: I | | | | IV | | I | | | | | | 
+
+Zz: $Vr $Ch
+S: [F] I | | $Ch $Zz*2 $Ch*2 $Zz

@@ -1,0 +1,12 @@
+
+% Light my Fire
+
+In: [G] I V | bVII bIII | bVI bII | [D] V | |
+VP: v | iii | 
+Vr: $VP*4 
+Ch: [D] IV V | I | IV V | I VI | IV I | II | |
+Ch2P: bIII bVII | I |
+Ch2: IV V | I | IV V | I | $Ch2P*4 
+SP: i ii |
+So: [A] $SP*4 $SP*66 $SP*60 $SP*10
+S: [D] $In $Vr $Ch $Vr $Ch $So $In $Vr $Ch $Vr $Ch2 $In

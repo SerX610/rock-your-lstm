@@ -1,0 +1,16 @@
+% God Save The Queen
+
+A: I | IV . . I6 . IV . . |
+B: I V | I |
+C: I | IV |
+D: IV | iii ii |
+
+In: I |*4 $A*3 I | |
+Vr: $A*3 I | |
+Br: [E] $B*3 I V | [A] V |
+Vr2: $A*2 I | V | I | |
+So: [F#] $C*3 I | [A] V | |
+Tg: $D*3 I | |
+
+Zz: $Vr*2 $Br $Vr2
+S: [A] $In $Zz*2 $So $Vr2 $Tg*3 I | | 

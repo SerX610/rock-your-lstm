@@ -1,0 +1,14 @@
+% Light My Fire (1967)
+
+A: i | vi | 
+B: i ii |
+C: bIII bVII | I |
+
+Rf: [G] I V | bVII bIII | bVI bII | [D] V | | 
+Vr: [A] $A*4
+Ch: [D] IV V | I | IV V | I VI | IV I | II7 | | 
+So: [A] $B*140
+Ch4: [D] IV V | I | IV V | I | $C*4
+
+Zz: $Vr $Ch
+S: [D] $Rf $Zz*2 $So $Rf $Zz $Vr $Ch4 $Rf

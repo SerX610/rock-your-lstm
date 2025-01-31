@@ -1,0 +1,11 @@
+
+% Love and Happiness
+
+In: i | | iv7 | i | | | bVId7 V7 | i | bVId7 V7 | i |         % First 4 mm. are in free tempo
+VP: bV iv bIII . |
+Vr: bIII | bIIId42 | i bVII | i bVII | i bVII | $VP*2
+Ch: bVId7 V7 | i | bVId7 V7 | i | 
+Inst: i |*8
+Br: i |*38
+Fadeout: i |*21
+S: [Ab] $In $Vr $Vr $VP $Ch $Inst $Ch $Vr $VP $Ch $Br $Ch $Fadeout

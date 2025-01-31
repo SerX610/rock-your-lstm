@@ -1,0 +1,11 @@
+
+% Whole Lotta Love
+
+BP: i . . bVII |
+
+In: R R R bVII | i | $BP i | $BP
+Vr: $BP*9
+Ch: $BP*4
+Br: R | i |*5 $BP          % Initial R is about 2 minutes of noise
+Co: i | IV | . . . bVII | $BP*22
+S: [E] $In $Vr $Ch $Vr $Ch $Br $Vr $BP*2 $Ch $Co

@@ -1,0 +1,6 @@
+
+% Be Bop A Lula
+
+Ch: I |*4 IV |*2 I |*2 V | IV | I |*2
+Vr: I |*8 IV |*2 I |*2 V | IV | I |*2
+S: [E] $Ch $Vr $Ch $Vr $Ch $Ch          % 2nd and 3rd choruses are instrumental

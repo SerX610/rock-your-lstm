@@ -1,0 +1,11 @@
+
+% Shout
+
+BP: I | vi |
+Ch: $BP*12
+VP: I |*2 vi |*2
+Vr1: $VP*4 I |*16
+Ch2: $BP*7 I | |
+Vr2: I | IV |     % fermatas over each measure
+Ch3: $BP*29
+S: [F] $Ch $Vr1 $Ch2 $Vr2 $Ch3

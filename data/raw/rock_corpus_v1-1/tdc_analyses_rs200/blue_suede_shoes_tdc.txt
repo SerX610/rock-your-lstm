@@ -1,0 +1,7 @@
+% Blue Suede Shoes
+
+In: I | [2/4] | [4/4] | [2/4] | [4/4] | | IV | | I | | V | | I | | 
+A: I | | | | IV | | I | | V | | I | |
+Ex: I | | | |
+
+S: [A] $In $Ex $A*2 $Ex $A*4

@@ -1,0 +1,12 @@
+% It's a Man's World
+
+A: i | v |
+
+In: [4/4] i | V | | | V7/bIII |*2
+
+Ch: $A*2 
+Rf: iv | | V | | $A*2
+Vr: $A*8 
+Ou: $A*4
+
+S: [Eb] [6/8] $In $Ch $Rf $Vr $Rf $Vr $Rf $Ou

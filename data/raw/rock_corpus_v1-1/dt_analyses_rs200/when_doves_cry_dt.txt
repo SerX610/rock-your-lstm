@@ -1,0 +1,9 @@
+
+% When Doves Cry
+
+VP: i | bVII | . | i | | bVII | | V |
+BP: bVI i bVII . | 
+In: R |*4 $BP*8
+Break: $BP*8
+VP2: i | iv | bVII | V |
+S: [A] $In $VP*4 $Break $VP*3 $Break $VP2*23 i |*4

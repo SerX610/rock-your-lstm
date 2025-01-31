@@ -1,0 +1,10 @@
+% I Got You (I Feel Good)
+% bpm = 146
+% bpb = 4
+
+Vr: Id7 | | | | IVd7 | | Id7 | | V7 | IVd7 | Id7 | |
+Ln: Id7 | | | |
+Br: IVd7 | | Id7 | | IVd7 | | V7 | |
+Tg: V7 | IVd7 | Id7 | |
+
+S: [D] $Vr*2 $Ln $Br $Vr $Ln $Br $Vr*2 $Tg*2 Id7 | |

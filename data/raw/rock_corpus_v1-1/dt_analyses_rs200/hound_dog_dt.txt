@@ -1,0 +1,5 @@
+
+% Hound Dog
+
+Vr: I | | | | IV | | I | | V | IV | I | |
+S: [C] $Vr*8 % Vr's 1,3,8 have one lyric; 2, 5, 7 have another; 4, 6 are instrumental
